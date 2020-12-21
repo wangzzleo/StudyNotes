@@ -12,7 +12,7 @@
 
 ##### 3、lock关系的示意图？
 
-![img](\images\menu.saveimg.savepath20200402105608.jpg)
+![img](images\menu.saveimg.savepath20200402105608.jpg)
 
 ##### **4、ReentrentLock调用关系时序图？**
 
